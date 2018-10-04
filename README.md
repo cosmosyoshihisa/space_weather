@@ -20,7 +20,9 @@
 以上は今回のプログラムコードを実行するために必要な環境です。  
   
 Anacondaとは何かということやAnacondaをインストールする方法はまとまったページがあるので是非すぐ下のリンクご参照ください。  
-リンク：[『ディストリビューション「Anaconda」とは？』](http://programming-study.com/trouble/anaconda/)
+リンク：[『ディストリビューション「Anaconda」とは？』](http://programming-study.com/trouble/anaconda/)  
+TensorFlowやKerasについてもインストールをする手順を説明したページがありましたのでご参照ください。  
+リンク：[
 
 
 

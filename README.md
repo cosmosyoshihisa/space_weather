@@ -34,7 +34,7 @@ TensorFlowやKerasについてもインストールをする手順を説明し�
 ## 4.機械学習の方法
 機械学習の方法（コードの内容）は上のファイルの「kernel」を開き、「spaceweather_*** 」というファイルをクリックしてください。もし２節で述べた環境が整っている場合はコードをコピペして自分の環境で実行してみるといいかもしれないです！なお、「*** 」には"temp"や"speed"の表記がありますがこれは温度や速さのことです。  なおファイルを開くと各コードの近くに説明を載せています。  
 
-```python:spaceweather_dens.ipynb
+```python:spaceweather_dens.py
 
 model = Sequential()
 model.add( LSTM( hidden_neurons, batch_input_shape = 

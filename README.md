@@ -19,8 +19,8 @@
   
 以上は今回のプログラムコードを実行するために必要な環境です。  
   
-Anacondaとは何かということやAnacondaをインストールする方法はまとまったページがあるので是非ご参照ください。  
-[ディストリビューション「Anaconda」とは？](http://programming-study.com/trouble/anaconda/)
+Anacondaとは何かということやAnacondaをインストールする方法はまとまったページがあるので是非すぐ下のリンクご参照ください。  
+リンク：[『ディストリビューション「Anaconda」とは？』](http://programming-study.com/trouble/anaconda/)
 
 
 

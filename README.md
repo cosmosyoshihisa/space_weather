@@ -26,8 +26,12 @@ TensorFlowやKerasについてもインストールをする手順を説明し�
   
 ## 3.データの入手
 上記のNOAAのページを開きます。  
-
+![image](https://user-images.githubusercontent.com/39754583/46477890-ad809e00-c826-11e8-84b3-55c8e96fe32b.png)
 下の方にスクロールしていくと
+![image](https://user-images.githubusercontent.com/39754583/46477915-bec9aa80-c826-11e8-93db-5003b702f745.png)　　
+上の画像のようになっていると思いますので、「7 days」を選んで「save as text」を押します。そうすると一週間分の太陽風のデータが「rtsq_plot_data」という名前で入手できます。  
+
+## 4.機械学習の方法
 
 
 

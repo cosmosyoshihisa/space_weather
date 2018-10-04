@@ -32,9 +32,10 @@ TensorFlowやKerasについてもインストールをする手順を説明し�
 上の画像のようになっていると思いますので、「7 days」を選んで「save as text」を押します。そうすると一週間分の太陽風のデータが「rtsq_plot_data」というファイル名で入手できます。  
 
 ## 4.機械学習の方法
-機械学習の方法（コードの内容）は上のファイルの「kernel」を開き、「spaceweather_*** 」というファイルをクリックしてください。もし２節で述べた環境が整っている場合はコードをコピペして自分の環境で実行してみるといいかもしれないです！なお、「*** 」には"temp"や"speed"の表記がありますがこれは温度や速さのことです。ファイルを開くと各コードの近くに説明を載せています。  
+機械学習の方法（コードの内容）は上のファイルの「kernel」を開き、「spaceweather_*** 」というファイルをクリックしてください。もし２節で述べた環境が整っている場合はコードをコピペして自分の環境で実行してみるといいかもしれないです！なお、「*** 」には"temp"や"speed"の表記がありますがこれは温度や速さのことです。  なおファイルを開くと各コードの近くに説明を載せています。  
 
 ```python:spaceweather_dens.ipynb
+
 model = Sequential()
 model.add( LSTM( hidden_neurons, batch_input_shape = 
     ( None, length_of_sequence, in_out_neurons ), return_sequences = False ) )
@@ -48,6 +49,7 @@ model.fit(input, expected,
     epochs = 80,
     validation_split = 0.1
 )
+
 ```
 
 

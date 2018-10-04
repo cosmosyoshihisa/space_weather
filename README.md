@@ -24,7 +24,7 @@ TensorFlowやKerasについてもインストールをする手順を説明し�
 リンク：[『中年の親父が人工知能ブームの影響を受けてこっそり勉強しているブログ』](http://coldsnap.hatenablog.jp/entry/2017/08/27/114900)  
   
 ## 3.データの入手
-上記のNOAAのページを開きます。    
+上記の[NOAAのページ](https://www.swpc.noaa.gov/products/real-time-solar-wind)を開きます。    
 ![image](https://user-images.githubusercontent.com/39754583/46477890-ad809e00-c826-11e8-84b3-55c8e96fe32b.png)    
 下の方にスクロールしていくと    
 ![image](https://user-images.githubusercontent.com/39754583/46477915-bec9aa80-c826-11e8-93db-5003b702f745.png)　　  
